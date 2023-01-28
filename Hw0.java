@@ -1,4 +1,4 @@
-package com.gradescope.hw0; 
+ 
 import java.util.ArrayList;
 public class Hw0 {
     public static int addAll(ArrayList<Integer> numbers){
